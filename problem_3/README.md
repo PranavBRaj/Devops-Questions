@@ -1,3 +1,11 @@
+Create a simple web application (HTML or Python Flask).Write a Dockerfile, build a Docker 
+image, and run the container so the application is accessible on a browser using port 
+mapping.
+ Using Docker commands, perform the following operations:
+● List images and containers
+● Stop a running container
+● Remove a container and image
+Demonstrate commands like: docker ps, docker stop, docker rm, docker rmi.
 Simple Web Application Dockerization and Docker Operations
 
 This project demonstrates:
