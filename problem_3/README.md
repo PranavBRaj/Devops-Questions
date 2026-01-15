@@ -1,4 +1,4 @@
-# Question 4 & 5: Simple Web Application Dockerization and Docker Operations
+Simple Web Application Dockerization and Docker Operations
 
 This project demonstrates:
 - Creating a simple HTML web application
