@@ -2,6 +2,7 @@
 
 This repository demonstrates a basic Git and GitHub workflow using a simple HTML Event Registration Form.  
 It covers repository setup, file creation, branching, merging, and GitHub authentication using a Personal Access Token (PAT).
+Question: Create a simple User Registration Form for an event with fields (Name, Email, Phone). Initialize a Git repository, commit the project files, and push them to GitHub using appropriate Git commands. Create a new branch named update-form, modify the registration form by adding a new field (Department), merge the branch into main, and push the changes to GitHub.Show the use of: git branch, git checkout, git merge, git push.
 
 ---
 
